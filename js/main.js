@@ -27,7 +27,7 @@ var parArr = [
 	{id:"#red-icon5", x:5030, y:100, layer:1, pages:[4, 5]},
 	{id:"#dottedline", x:5500, y:-250, layer:2, pages:[5]},
 	{id:"#video-sm", x:5550, y:-120, layer:1.5, pages:[5, 6]},
-	{id:"#video-big", x:5446, y:-208, layer:1.5, pages:[7]},
+	{id:"#video-big", x:5446, y:-300, layer:1.5, pages:[7]},
 	{id:"#popcorn-logo", x:6250, y:-140, layer:1, pages:[8]},
 	{id:"#mini-popcorn-logo", x:7270, y:-130, layer:1, pages:[9, 10]},
 	{id:"#red-icon1-2", x:7020, y:50, layer:0.9, pages:[9, 10]},
@@ -40,7 +40,7 @@ var parArr = [
 	{id:"#red-icons-assembled", x:7580, y:-210, layer:0.8, pages:[11, 12]},
 	{id:"#green-icons-assembled", x:8050, y:-220, layer:0.9, pages:[12]},
 	{id:"#line4", x:8220, y:-165, layer:3.5, pages:[12]},
-	{id:"#popcorn-template", x:9520, y:-360, layer:1, pages:[13]}		
+	{id:"#popcorn-template", x:9520, y:-260, layer:1, pages:[13]}		
 ];
 
 var pagePosArr = [0, 2000, 2300, 3500, 5000, 5500, 5690, 5690, 6500, 7500, 7500, 7850, 8200, 10000]; // this is the page position array
